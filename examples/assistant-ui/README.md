@@ -25,7 +25,7 @@ The thread list lives in the browser (`createInMemorySessionTransport`), so thre
 
 ## Prerequisites
 
-- Node.js 20.9 or later
+- Node.js 22.15+ on Node 22, Node 24, or Node 26+
 - An Anthropic API key
 
 ## Getting started
